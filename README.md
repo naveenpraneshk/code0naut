@@ -1,2 +1,2 @@
 # code0naut
-A stack for building Grat Web Applications
+A stack for building Great Software
